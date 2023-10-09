@@ -1,7 +1,9 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
+</div>
+
 
 <!--
 **sulimanbadour1/sulimanbadour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
