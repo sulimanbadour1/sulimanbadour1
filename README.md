@@ -6,7 +6,11 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5) since 1/9/2023
+[![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
+
+
+
+<img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png"/>
 <!--
 **sulimanbadour1/sulimanbadour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
