@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px"/>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
 
 
@@ -10,7 +12,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px"/>
 <!--
 **sulimanbadour1/sulimanbadour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
