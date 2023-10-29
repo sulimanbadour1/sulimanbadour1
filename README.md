@@ -11,7 +11,7 @@
 [![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
 
 
-<div align="center">
+<div align="left">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sulimanbadour1}/count.svg" /></p> 
 <br></div>
