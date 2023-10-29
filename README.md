@@ -1,6 +1,8 @@
 ### Hi there 👋
-
+<div align=""center>
 <img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px"/>
+</div>
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
 
@@ -12,7 +14,7 @@
 
 
 <div align="left">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="left"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sulimanbadour1}/count.svg" /></p> 
 <br></div>
 <!--
