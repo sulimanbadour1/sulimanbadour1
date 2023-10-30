@@ -1,8 +1,8 @@
   ### Hi there 👋
 <div align="center">
-  
+  <div style="padding=12px">
 <img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px"/>
-
+</div>
 
 
 
