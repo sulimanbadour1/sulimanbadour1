@@ -1,9 +1,5 @@
   ### Hi there 👋
 <div align="center">
-
-
-
-
   
 <img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px" padding="12px"/>
 
@@ -11,7 +7,9 @@
 
 
 
+
   
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
 
