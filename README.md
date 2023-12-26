@@ -6,7 +6,7 @@
 <br/>
 
 </br>
-[sulimanbadour.com](www.sulimanbadour.com)
+[](www.sulimanbadour.com)
 </br>
 
 </br>
