@@ -7,6 +7,7 @@
 
 </br>
 [Portfolio](www.sulimanbadour.com)
+[Blog](https://sb-blog-silk.vercel.app/)
 </br>
 
 </br>
