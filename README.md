@@ -8,16 +8,14 @@
 </br>
 [Portfolio](www.sulimanbadour.com)
 </br>
-</br>
+
 </br>
 [Blog](https://sb-blog-silk.vercel.app/)
 </br>
-</br>
+
 </br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
-
-
 
 
 
