@@ -27,7 +27,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sulimanbadour1}/count.svg" /></p> 
 <br></div>
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
+</div>
 <!--
 **sulimanbadour1/sulimanbadour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
