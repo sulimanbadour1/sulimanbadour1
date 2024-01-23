@@ -28,6 +28,8 @@
 <br></div>
 </div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <!--
 **sulimanbadour1/sulimanbadour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
