@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px"/>
 </div>
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sulimanbadour1)](https://git.io/streak-stats)
 </br>
 [Portfolio](www.sulimanbadour.com)
 </br>
