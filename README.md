@@ -23,6 +23,7 @@
 [![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
 
 
+<!--
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sulimanbadour1}/count.svg" /></p> 
@@ -31,7 +32,6 @@
 
 
 
-<!--
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sulimanbadour1&theme=highcontrast)](https://git.io/streak-stats)
