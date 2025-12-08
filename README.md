@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-</br>
+<!-- </br> 
 [Portfolio](www.sulimanbadour.com)
 </br>
 
@@ -22,6 +22,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
 
+-- -->
 
 <!--
 <div align="center">
