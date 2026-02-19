@@ -7,7 +7,7 @@
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
+
 
 <!-- </br> 
 [Portfolio](www.sulimanbadour.com)
@@ -18,6 +18,7 @@
 </br>
 
 </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
 -- -->
