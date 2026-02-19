@@ -6,6 +6,9 @@
 </div>
 <br/>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
+
 <!-- </br> 
 [Portfolio](www.sulimanbadour.com)
 </br>
@@ -20,7 +23,7 @@
 -- -->
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
+  
 
 
 
