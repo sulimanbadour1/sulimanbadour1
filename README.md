@@ -8,11 +8,11 @@
 
   <br>
 
-  <!-- GitHub Stats (Fixed: Removed heavy query parameter that caused timeouts) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sulimanbadour1&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+  <!-- GitHub Stats (Fixed: Using a working community mirror) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sulimanbadour1&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
       
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+  <!-- Top Languages (Fixed: Using a working community mirror) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
 
   <br>
 
@@ -23,7 +23,7 @@
 
   <br><br>
 
-  <!-- Visitor Counter (Fixed: Switched to a reliable enterprise-grade server) -->
+  <!-- Visitor Counter (Reliable Komarev Server) -->
   <img src="https://komarev.com/ghpvc/?username=sulimanbadour1&label=Profile%20Views&color=blue&style=flat-square" alt="Visitors Count" />
 
 </div>
