@@ -1,62 +1,29 @@
-  ### Hi there 👋
-  
 <div align="center">
-  <div "margin-bottom: 30px;">
-<img src="https://raw.githubusercontent.com/sulimanbadour1/Sul_folio/main/src/assets/logos/white.png" width="120px"/>
-</div>
-<br/>
 
+  ## Hi, I'm Suliman 👋
+  <p>
+    <a href="https://www.sulimanbadour.com" target="_blank">Portfolio</a> • 
+    <a href="https://sb-blog-silk.vercel.app/" target="_blank">Blog</a>
+  </p>
 
+  <br>
 
+  <!-- GitHub Stats (Fixed: Removed heavy query parameter that caused timeouts) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sulimanbadour1&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+      
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
 
-<!-- </br> 
-[Portfolio](www.sulimanbadour.com)
-</br>
+  <br>
 
-</br>
-[Blog](https://sb-blog-silk.vercel.app/)
-</br>
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sulimanbadour1&hide_border=true&theme=dark" alt="GitHub Streak" />
+  </a>
 
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact)
+  <br><br>
 
-[![wakatime](https://wakatime.com/badge/user/d7fffb39-631e-454c-9cce-bb60e92d14c5.svg)](https://wakatime.com/@d7fffb39-631e-454c-9cce-bb60e92d14c5)
--- -->
-
-
-  
-
-
-
-
-
-
-<!--
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sulimanbadour1}/count.svg" /></p> 
-<br></div>
-</div>
-
-
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sulimanbadour1&theme=highcontrast)](https://git.io/streak-stats)
+  <!-- Visitor Counter (Fixed: Switched to a reliable enterprise-grade server) -->
+  <img src="https://komarev.com/ghpvc/?username=sulimanbadour1&label=Profile%20Views&color=blue&style=flat-square" alt="Visitors Count" />
 
 </div>
-
-
-**sulimanbadour1/sulimanbadour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
