@@ -11,7 +11,7 @@
   <br>
 
   <!-- GitHub Stats (Fixed: Using a working community mirror) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sulimanbadour1&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+  <!--<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sulimanbadour1&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" /> -->
       
   <!-- Top Languages (Fixed: Using a working community mirror) -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sulimanbadour1&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
