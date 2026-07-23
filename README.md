@@ -1,9 +1,9 @@
-<div align="center">
+   <div align="center">
 
   ## Hi, I'm Suliman 👋
-  <p>
-    <a href="https://www.sulimanbadour.com" target="_blank">Portfolio</a> • 
-    <a href="https://sb-blog-silk.vercel.app/" target="_blank">Blog</a>
+<p>
+   <!-- <a href="https://www.sulimanbadour.com" target="_blank">Portfolio</a> -->
+   <!-- <a href="https://sb-blog-silk.vercel.app/" target="_blank">Blog</a> -->
   </p>
 
 
